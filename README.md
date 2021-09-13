@@ -43,7 +43,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngbala6&show_icons=true&locale=en" alt="ngbala6" /></p>
 
 ### ⚡Recent Activity
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
