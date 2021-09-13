@@ -14,6 +14,9 @@
 - 📫 How to reach me **ngbala6@gmail.com**
 
 ### ⚡My Recent Blogs
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ngbala6/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ngbala6/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ngbala6/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ngbala6/1" alt="Recent Article 1"> 
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
