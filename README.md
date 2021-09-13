@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Streamlit app on Nginx](https://ngbala6.medium.com/deploy-streamlit-app-on-nginx-cfa327106050?source=rss-d25366e66c0a------2)
+- [Statistics: Range, Variance and Standard Deviation](https://medium.com/analytics-vidhya/statistics-range-variance-and-standard-deviation-f26bbfa0bbaa?source=rss-d25366e66c0a------2)
+- [Population vs Sample & Parameter vs Statistic & Biased vs Unbiased in Statistics](https://medium.com/analytics-vidhya/population-sample-parameter-statistic-biased-unbiased-ead2021d93d7?source=rss-d25366e66c0a------2)
+- [Statistics: Mean, Median and Mode](https://medium.com/analytics-vidhya/statistics-mean-median-and-mode-16a90c75cbb?source=rss-d25366e66c0a------2)
+- [Install KenLM Language Model](https://blog.devgenius.io/install-kenlm-language-model-a42c89292307?source=rss-d25366e66c0a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
