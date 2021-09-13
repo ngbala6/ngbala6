@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngbala6" alt="ngbala6" /></a> </p>
 
-- 📝 I regularly write articles on [https://ngbala6@gmail.com](https://ngbala6@gmail.com)
+- 📝 I regularly write articles on [https://ngbala6.medium.com](https://ngbala6.medium.com)
 
 - 💬 Ask me about **Stats, Machine Learning, Deep Learning**
 
