@@ -43,8 +43,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngbala6&show_icons=true&locale=en" alt="ngbala6" /></p>
 
 ### ⚡Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngbala6&" alt="ngbala6" /></p>
 
