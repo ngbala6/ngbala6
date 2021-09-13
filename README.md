@@ -5,23 +5,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngbala6" alt="ngbala6" /></a> </p>
 
+- 🌱 I’m currently learning **MLOps**
+
+- 👨‍💻 My Portfolio [https://flowcv.me/ngbala6](https://flowcv.me/ngbala6)
+
 - 📝 I regularly write articles on [https://ngbala6.medium.com](https://ngbala6.medium.com)
 
-- 💬 Ask me about **Stats, Machine Learning, Deep Learning**
+- 💬 Ask me about **Stats, Machine Learning, Deep Learning, Nginx, Gunicorn, Docker, API**
 
 - 📫 How to reach me **ngbala6@gmail.com**
 
 ### Blogs posts
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ngbala6/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ngbala6/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ngbala6/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ngbala6/1" alt="Recent Article 1"> 
-
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ngbala6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngbala6" height="30" width="40" /></a>
 <a href="https://kaggle.com/ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ngbala6" height="30" width="40" /></a>
 <a href="https://medium.com/@ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ngbala6" height="30" width="40" /></a>
 </p>
