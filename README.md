@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngbala6" alt="ngbala6" /></a> </p>
 
-- 👨‍💻 LinkedIn Profile <a href="https://linkedin.com/in/ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngbala6" height="20" width="20" /></a>
+- [LinkedIn Profile](https://linkedin.com/in/ngbala6) <a href="https://linkedin.com/in/ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngbala6" height="20" width="30" /></a>
 
- <!---My Portfolio [https://flowcv.me/ngbala6](https://flowcv.me/ngbala6)-->
+ <!---👨‍💻 My Portfolio [https://flowcv.me/ngbala6](https://flowcv.me/ngbala6)-->
 
 - 📝 I regularly write articles at [https://ngbala6.medium.com](https://ngbala6.medium.com)
 
