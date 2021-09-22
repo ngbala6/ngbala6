@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngbala6" alt="ngbala6" /></a> </p>
 
-- 👨‍💻 LinkedIn Profile <a href="https://linkedin.com/in/ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngbala6" height="30" width="40" /></a>
+- 👨‍💻 LinkedIn Profile <a href="https://linkedin.com/in/ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngbala6" height="10" width="20" /></a>
 
  <!---My Portfolio [https://flowcv.me/ngbala6](https://flowcv.me/ngbala6)-->
 
