@@ -7,6 +7,8 @@
 
 - 👨‍💻 My Portfolio [https://flowcv.me/ngbala6](https://flowcv.me/ngbala6)
 
+-<a href="https://linkedin.com/in/ngbala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngbala6" height="30" width="40" /></a>
+
 - 📝 I regularly write articles at [https://ngbala6.medium.com](https://ngbala6.medium.com)
 
 - 💬 Ask me about **Statistics, Machine Learning, Deep Learning, Nginx, Gunicorn, Docker, API**
