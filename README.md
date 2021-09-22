@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngbala6" alt="ngbala6" /></a> </p>
 
-- 👨‍💻 [My Portfolio] (https://flowcv.me/ngbala6)
+- 👨‍💻 [My Portfolio](https://flowcv.me/ngbala6)
 
 - 📝 I regularly write articles at [https://ngbala6.medium.com](https://ngbala6.medium.com)
 
