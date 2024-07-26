@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Statistics, Machine Learning, Deep Learning, Nginx, Gunicorn, Docker, API**
 
-- 📫 How to reach me **ngbala6@gmail.com**
+### - 📫 How to reach me **ngbala6@gmail.com**
 
 ### ⚡Recent Blogs
  <!---
